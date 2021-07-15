@@ -20,7 +20,7 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 FILES
 
-1.  CodeBook.Rmd - It describes the variables, the data, and any transformations or work that was performed to clean up the data.
+1.  CodeBook.md - It describes the variables, the data, and any transformations or work that was performed to clean up the data.
 2.  run_analysis.R - The R script that executes the algorithm to load the data files from internet, to transfer the data to memory to be cleaned, transformed, merged, summarized and prepared the final output file to be be used for later analysis.
 3.  summary_by_subj_activ.txt - The output file that contains a summarized mean of each variable grouped by subject and activity.
-4.  README.Rmd - This file that describes the purpose, goal, and files components of this project.
+4.  README.md - This file that describes the purpose, goal, and files components of this project.
